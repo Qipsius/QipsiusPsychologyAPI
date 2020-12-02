@@ -1,0 +1,2 @@
+# QipsiusPsychologyAPI
+QipsiusPsychology API
